@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Operative88/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Operative88/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Operative88/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Operative88/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
